@@ -4,7 +4,7 @@ os.environ['STRIPE_PUBLISHABLE_KEY'] = "pk_test_xeEyVjyjbxy9vAnvnRGBlzrF00zcVeNF
 
 os.environ['STRIPE_SECRET_KEY'] = "sk_test_5sHpBPtpVnHwcI5OuYoUEt3000OQmb9Zft"
 
-os.environ['POSTGRESQL_URL'] = "postgres://gydclzxjofjtpa:9cadef7ec64b6584d720377842a49734516340bd4c180c056b4e72de9923b0e9@ec2-184-72-236-57.compute-1.amazonaws.com:5432/de6oeedb2t0ebd"
+os.environ['POSTGRESQL_URL'] = "postgres://maexhvhswvvpvz:31d19dddc250a14e8df2a7a68957ac327ef5d8cef7e13ba433a03fce16eaa6f5@ec2-3-91-112-166.compute-1.amazonaws.com:5432/d9km7h4ckonmdh"
 
 os.environ['UPLOADCARE_PUBLISHABLE_KEY'] = "950dfff0d7e1f7dcb477"
 
