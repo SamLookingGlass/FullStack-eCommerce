@@ -57,7 +57,7 @@ Pillow==7.0.0
 plotly==4.2.1
 plumber==1.5
 postgres==3.0.0
-protobuf==3.11.2
+protobuf==3.18.3
 psycopg2==2.8.3
 psycopg2-binary==2.8.4
 psycopg2-pool==1.1
